@@ -14,7 +14,7 @@ int main(){
     cin >> num[i];
   }
   
-  Massimo(num, rango);
+  massimo(num, rango);
   
   cout << massimo(num, rango) << endl;
   
