@@ -5,9 +5,10 @@ using namespace std;
 int main(){
   
   int rango;
-  float num[rango];
 
   cin >> rango;
+  
+  float num[rango];
   
   for(int i = 0; i < rango; i++)
   {
