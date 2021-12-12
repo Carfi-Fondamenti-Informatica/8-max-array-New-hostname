@@ -9,7 +9,7 @@ int main(){
 
   cin >> rango;
   
-  for(int = 0; i < rango; i++)
+  for(int i = 0; i < rango; i++)
   {
     cin >> num[i];
   }
