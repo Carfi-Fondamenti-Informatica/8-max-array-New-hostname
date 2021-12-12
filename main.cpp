@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
   
-  int rango = 0;
+  int rango;
   float num[rango];
 
   cin >> rango;
