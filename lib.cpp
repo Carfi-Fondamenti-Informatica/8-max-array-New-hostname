@@ -2,7 +2,7 @@
 
 float massimo(const float num[], int rango)
 {
-  num [rango];
+  num[rango];
   
   float max = num[0];
   
